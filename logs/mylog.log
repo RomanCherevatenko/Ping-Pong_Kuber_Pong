@@ -1,0 +1,18 @@
+2022-04-08 13:51:17.860  INFO 26896 --- [main] com.example.pong.PongApplication         : Starting PongApplication using Java 11.0.13 on EPUAKYIW0D81 with PID 26896 (C:\Users\Roman_Cherevatenko\Pong\pong\target\classes started by Roman_Cherevatenko in C:\Users\Roman_Cherevatenko\Pong)
+2022-04-08 13:51:17.867  INFO 26896 --- [main] com.example.pong.PongApplication         : No active profile set, falling back to 1 default profile: "default"
+2022-04-08 13:51:18.504  INFO 26896 --- [main] o.s.b.w.embedded.tomcat.TomcatWebServer  : Tomcat initialized with port(s): 8080 (http)
+2022-04-08 13:51:18.511  INFO 26896 --- [main] o.apache.catalina.core.StandardService   : Starting service [Tomcat]
+2022-04-08 13:51:18.511  INFO 26896 --- [main] org.apache.catalina.core.StandardEngine  : Starting Servlet engine: [Apache Tomcat/9.0.60]
+2022-04-08 13:51:18.676  INFO 26896 --- [main] o.a.c.c.C.[Tomcat].[localhost].[/]       : Initializing Spring embedded WebApplicationContext
+2022-04-08 13:51:18.677  INFO 26896 --- [main] w.s.c.ServletWebServerApplicationContext : Root WebApplicationContext: initialization completed in 763 ms
+2022-04-08 13:51:18.949  INFO 26896 --- [main] o.s.b.w.embedded.tomcat.TomcatWebServer  : Tomcat started on port(s): 8080 (http) with context path ''
+2022-04-08 13:51:18.962  INFO 26896 --- [main] com.example.pong.PongApplication         : Started PongApplication in 1.505 seconds (JVM running for 2.528)
+2022-04-08 14:04:22.893  INFO 26460 --- [main] com.example.pong.PongApplication         : Starting PongApplication using Java 11.0.13 on EPUAKYIW0D81 with PID 26460 (C:\Users\Roman_Cherevatenko\Pong\pong\target\classes started by Roman_Cherevatenko in C:\Users\Roman_Cherevatenko\Pong)
+2022-04-08 14:04:22.896  INFO 26460 --- [main] com.example.pong.PongApplication         : No active profile set, falling back to 1 default profile: "default"
+2022-04-08 14:04:23.572  INFO 26460 --- [main] o.s.b.w.embedded.tomcat.TomcatWebServer  : Tomcat initialized with port(s): 8080 (http)
+2022-04-08 14:04:23.579  INFO 26460 --- [main] o.apache.catalina.core.StandardService   : Starting service [Tomcat]
+2022-04-08 14:04:23.579  INFO 26460 --- [main] org.apache.catalina.core.StandardEngine  : Starting Servlet engine: [Apache Tomcat/9.0.60]
+2022-04-08 14:04:23.653  INFO 26460 --- [main] o.a.c.c.C.[Tomcat].[localhost].[/]       : Initializing Spring embedded WebApplicationContext
+2022-04-08 14:04:23.654  INFO 26460 --- [main] w.s.c.ServletWebServerApplicationContext : Root WebApplicationContext: initialization completed in 714 ms
+2022-04-08 14:04:23.944  INFO 26460 --- [main] o.s.b.w.embedded.tomcat.TomcatWebServer  : Tomcat started on port(s): 8080 (http) with context path ''
+2022-04-08 14:04:23.954  INFO 26460 --- [main] com.example.pong.PongApplication         : Started PongApplication in 1.479 seconds (JVM running for 2.258)
